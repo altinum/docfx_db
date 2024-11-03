@@ -22,6 +22,8 @@
          href: Normalization.md
 - name: "D2L3-4 Practice in SSMS"
   items:
+       - name: "Design pattern: key-value tables"
+         href: key_value.md
        - name: "Work with SSMS"
          href: db_build_in_practice.md
         
